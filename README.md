@@ -2,6 +2,6 @@
 A Repo made for teaching how to learn html
 
 
-## Episode 1, What is HTML?
+## Episode 2, Getting Started with `<html>
 
 HTML is a coding languge
